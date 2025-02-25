@@ -1,0 +1,1 @@
+# amrstrong-number
